@@ -1,0 +1,15 @@
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/model/CustomUserDetails.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/SpringSecurityWithDynamicAuthApplication.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/entities/enums/EncryptionAlgorithm.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/entities/enums/Currency.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/repositories/ProductRepository.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/entities/Authority.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/config/ProjectConfig.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/repositories/UserRepository.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/entities/User.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/config/SecurityConfig.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/services/ProductService.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/controllers/MainPageController.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/services/AuthenticationProviderService.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/services/JpaUserDetailsService.java
+/home/oleg/MySecurityProject/SpringSecurityWithDynamicAuthTemplate/src/main/java/com/epam/brest/springsecuritywithdynamic/auth/entities/Product.java

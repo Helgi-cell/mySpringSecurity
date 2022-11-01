@@ -1,0 +1,16 @@
+com/epam/brest/springsecuritywithdynamic/auth/entities/Authority.class
+com/epam/brest/springsecuritywithdynamic/auth/services/ProductService.class
+com/epam/brest/springsecuritywithdynamic/auth/entities/enums/EncryptionAlgorithm.class
+com/epam/brest/springsecuritywithdynamic/auth/repositories/ProductRepository.class
+com/epam/brest/springsecuritywithdynamic/auth/entities/User.class
+com/epam/brest/springsecuritywithdynamic/auth/services/AuthenticationProviderService$1.class
+com/epam/brest/springsecuritywithdynamic/auth/entities/Product.class
+com/epam/brest/springsecuritywithdynamic/auth/services/AuthenticationProviderService.class
+com/epam/brest/springsecuritywithdynamic/auth/repositories/UserRepository.class
+com/epam/brest/springsecuritywithdynamic/auth/config/ProjectConfig.class
+com/epam/brest/springsecuritywithdynamic/auth/entities/enums/Currency.class
+com/epam/brest/springsecuritywithdynamic/auth/controllers/MainPageController.class
+com/epam/brest/springsecuritywithdynamic/auth/config/SecurityConfig.class
+com/epam/brest/springsecuritywithdynamic/auth/services/JpaUserDetailsService.class
+com/epam/brest/springsecuritywithdynamic/auth/SpringSecurityWithDynamicAuthApplication.class
+com/epam/brest/springsecuritywithdynamic/auth/model/CustomUserDetails.class
